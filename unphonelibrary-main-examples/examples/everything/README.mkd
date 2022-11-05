@@ -1,0 +1,10 @@
+An unPhone example with a bit of everything
+===
+
+To build this using PlatformIO core, e.g. (in docker):
+
+```
+.../the-internet-of-things/support/magic.sh -D
+pio run -e unphone9 -t upload -t monitor
+```
+
